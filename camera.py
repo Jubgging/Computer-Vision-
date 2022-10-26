@@ -1,3 +1,4 @@
 print("hello world")
 
-print("woohyun")
+print("hi")
+print("nice to meet you")
